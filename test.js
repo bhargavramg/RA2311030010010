@@ -1,5 +1,5 @@
 require("dotenv").config();
-const axios = require("./node_modules/axios/index.d.cts");
+const axios = require("axios");
 
 const BASE_URL = "http://20.207.122.201/evaluation-service";
 
